@@ -1,0 +1,2 @@
+== Simple iOS Browser
+A simple browser for iOS devices
